@@ -1,6 +1,16 @@
-текст
-текст джвладжвалджвладж
+п‹Ґо«±п€Љп‹Ґо«±п€ о“¦о‹«оѓ¤о›ўоѓ«о“¦о‹«оѓ¤оЉа« о‹ЇоЇ¤оѓўо»Їо›¤оЇ о»ЇпїЅcbvcbv
 
+<<<<<<< HEAD
 авплдавопждлаопл
 
 sdjkfljdklsfjkljkjdksjfkjsdklfjklsdjfkljdklsfjkldsjkfjdskljfklsdjf
+=======
+dmngkfjghlkfg
+
+dfgkfdngjjfdngldg
+
+
+
+dfgmkfdkngklfdngkdfnlngklfdnglk
+jdfnkjdnfjkdnjkfn
+>>>>>>> 048861507e35be58bb1fca1abac5935048fcf7f3
